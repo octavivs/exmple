@@ -21,45 +21,45 @@
   "friends": [
     {
       "firstName": "José",
-  "middleName": "Octavio",
-  "lastName": "Sánchez Contreras",
-  "birthDate": "22/03/1982",
-  "email": "octavio@example.com",
-  "mobilePhone": "+522721552834"
-  "address": {
-    "street": "Poniente 11",
-    "city": "Orizaba",
-    "state": "Veracruz",
-    "zipCode": "94500",
-    "country": "México"
-  },
-  "interests": [
-    "Software Architecture",
-    "Open Source",
-    "Gaming",
-    "Movies"
-  ]
+      "middleName": "Octavio",
+      "lastName": "Sánchez Contreras",
+      "birthDate": "22/03/1982",
+      "email": "octavio@example.com",
+      "mobilePhone": "+522721552834",
+      "address": {
+        "street": "Poniente 11",
+        "city": "Orizaba",
+        "state": "Veracruz",
+        "zipCode": "94500",
+        "country": "México"
+      },
+      "interests": [
+        "Software Architecture",
+        "Open Source",
+        "Gaming",
+        "Movies"
+      ]
     },
     {
       "firstName": "José",
-  "middleName": "Octavio",
-  "lastName": "Sánchez Contreras",
-  "birthDate": "22/03/1982",
-  "email": "octavio@example.com",
-  "mobilePhone": "+522721552834"
-  "address": {
-    "street": "Poniente 11",
-    "city": "Orizaba",
-    "state": "Veracruz",
-    "zipCode": "94500",
-    "country": "México"
-  },
-  "interests": [
-    "Software Architecture",
-    "Open Source",
-    "Gaming",
-    "Movies"
-  ]
+      "middleName": "Octavio",
+      "lastName": "Sánchez Contreras",
+      "birthDate": "22/03/1982",
+      "email": "octavio@example.com",
+      "mobilePhone": "+522721552834",
+      "address": {
+        "street": "Poniente 11",
+        "city": "Orizaba",
+        "state": "Veracruz",
+        "zipCode": "94500",
+        "country": "México"
+      },
+      "interests": [
+        "Software Architecture",
+        "Open Source",
+        "Gaming",
+        "Movies"
+      ]
     }
   ]
 }
