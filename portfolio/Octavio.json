@@ -4,7 +4,7 @@
   "lastName": "Sánchez Contreras",
   "birthDate": "22/03/1982",
   "email": "octavio@example.com",
-  "mobilePhone": "+522721552834"
+  "mobilePhone": "+522721552834",
   "address": {
     "street": "Poniente 11",
     "city": "Orizaba",
@@ -20,14 +20,46 @@
   ],
   "friends": [
     {
-      "friendId": "a1b2c3d4",
-      "name": "Jane Smith",
-      "status": "active"
+      "firstName": "José",
+  "middleName": "Octavio",
+  "lastName": "Sánchez Contreras",
+  "birthDate": "22/03/1982",
+  "email": "octavio@example.com",
+  "mobilePhone": "+522721552834"
+  "address": {
+    "street": "Poniente 11",
+    "city": "Orizaba",
+    "state": "Veracruz",
+    "zipCode": "94500",
+    "country": "México"
+  },
+  "interests": [
+    "Software Architecture",
+    "Open Source",
+    "Gaming",
+    "Movies"
+  ]
     },
     {
-      "friendId": "e5f6g7h8",
-      "name": "Bob Martin",
-      "status": "offline"
+      "firstName": "José",
+  "middleName": "Octavio",
+  "lastName": "Sánchez Contreras",
+  "birthDate": "22/03/1982",
+  "email": "octavio@example.com",
+  "mobilePhone": "+522721552834"
+  "address": {
+    "street": "Poniente 11",
+    "city": "Orizaba",
+    "state": "Veracruz",
+    "zipCode": "94500",
+    "country": "México"
+  },
+  "interests": [
+    "Software Architecture",
+    "Open Source",
+    "Gaming",
+    "Movies"
+  ]
     }
   ]
 }
